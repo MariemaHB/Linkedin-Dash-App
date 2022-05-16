@@ -1,0 +1,6 @@
+pandas == 1.0.1
+wordcloud == 1.8.1
+plotly == 4.14.1
+dash == 1.21.0
+dash_extensions == 0.0.60 
+dash_bootstrap_components == 0.13.1
